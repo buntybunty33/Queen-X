@@ -15,25 +15,32 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94719225807'] //ur owner number
-global.ownername = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur owner name
+global.owner = ['94765699221'] //ur owner number
+global.ownername = "✾➣• Q U E E N ✾➣ X̽࿐
+" //ur owner name
 global.ytname = "CYBER JOHN" //ur yt chanel name
-global.socialm = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur github or insta name
+global.socialm = "✾➣• Q U E E N ✾➣ X̽࿐
+" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
 //ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ්👇 එක දාන්න
 global.session = "YXF5RWYwZ0I=" //session Id ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ් එක ඔකට දාන්න
-global.ownernomer = "94719225807" //ur number
-global.premium = ['94719225807'] //ur premium number
-global.botname = 'QUEEN -X' //ur bot name
-global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //ur website to be displayed
+global.ownernomer = "94765699221" //ur number
+global.premium = ['94765699221'] //ur premium number
+global.botname = '✾➣• Q U E E N ✾➣ X̽࿐
+' //ur bot name
+global.linkz = "https://chat.whatsapp.com/Hy5B3NuENKS80q4D3ybwnY" //your theme url which will be displayed on whatsapp
+global.websitex = "https://chat.whatsapp.com/Hy5B3NuENKS80q4D3ybwnY" //ur website to be displayed
 global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
 global.themeemoji = "🛸" //ur theme emoji
-global.packname = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur sticker watermark packname
-global.author = "ＱＵＥＥＮ-Ｘ ＢＯＴ\n\n\nA whatsapp bot developed by\n   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur sticker watermark author
-global.wm = "ＱＵＥＥＮ-Ｘ ＢＯＴ." //ur watermark
+global.packname = "✾➣• Q U E E N ✾➣ X̽࿐
+" //ur sticker watermark packname
+global.author = "✾➣• Q U E E N ✾➣ X̽࿐
+\n\n\nA whatsapp bot developed by\n   ✾➣• Q U E E N ✾➣ X̽࿐
+🏻" //ur sticker watermark author
+global.wm = "✾➣• Q U E E N ✾➣ X̽࿐
+." //ur watermark
 
 // Other
 global.sessionName = 'session'
